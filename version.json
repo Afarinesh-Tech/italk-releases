@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3070800,
-  "latestVersionName": "3.7.8",
+  "latestVersionCode": 3070900,
+  "latestVersionName": "3.7.9",
   "minVersionCode": 1,
-  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.7.8/italk-3.7.8.apk",
-  "message": "نسخه ۳.۷.۸:\n• آیکون جدید برنامه\n• حذف منوی کشویی کناری\n• اصلاح آیکون پیوست فایل"
+  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.7.9/italk-3.7.9.apk",
+  "message": "نسخه ۳.۷.۹:\n• طراحی جدید نوار ارسال پیام\n• دکمه ارسال دایره‌ای و آیکون پیوست داخل کادر"
 }
