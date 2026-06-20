@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3070500,
-  "latestVersionName": "3.7.5",
+  "latestVersionCode": 3070600,
+  "latestVersionName": "3.7.6",
   "minVersionCode": 1,
-  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.7.5/italk-3.7.5.apk",
-  "message": "نسخه ۳.۷.۵:\n• بهبودهای جزئی"
+  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.7.6/italk-3.7.6.apk",
+  "message": "نسخه ۳.۷.۶:\n• نمایش پیشرفت دانلود به‌روزرسانی داخل برنامه"
 }
