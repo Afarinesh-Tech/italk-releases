@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3070400,
-  "latestVersionName": "3.7.4",
+  "latestVersionCode": 3070500,
+  "latestVersionName": "3.7.5",
   "minVersionCode": 1,
-  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.7.4/italk-3.7.4.apk",
-  "message": "نسخه ۳.۷.۴:\n• رفع مشکل قطع و وصل شدن مکرر\n• بهبود کیفیت صدای دریافتی\n• نوار وضعیت اتصال و دکمه اتصال مجدد"
+  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.7.5/italk-3.7.5.apk",
+  "message": "نسخه ۳.۷.۵:\n• بهبودهای جزئی"
 }
