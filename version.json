@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3080200,
-  "latestVersionName": "3.8.2",
+  "latestVersionCode": 3080300,
+  "latestVersionName": "3.8.3",
   "minVersionCode": 1,
-  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.8.2/italk-3.8.2.apk",
-  "message": "نسخه ۳.۸.۲:\n• هدر جدید با نام مجموعه و وضعیت اتصال"
+  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.8.3/italk-3.8.3.apk",
+  "message": "نسخه ۳.۸.۳:\n• تم جدید شفق (Aurora)\n• پخش‌کننده صوتی با نمایش موج صدا"
 }
