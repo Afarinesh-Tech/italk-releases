@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3080400,
-  "latestVersionName": "3.8.4",
+  "latestVersionCode": 3080500,
+  "latestVersionName": "3.8.5",
   "minVersionCode": 1,
-  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.8.4/italk-3.8.4.apk",
-  "message": "نسخه ۳.۸.۴:\n• چیدمان جدید: نوار اعضای آنلاین و دکمه صحبت بزرگ"
+  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.8.5/italk-3.8.5.apk",
+  "message": "نسخه ۳.۸.۵:\n• آواتار رنگی اختصاصی برای هر عضو\n• انیمیشن برای عضوی که در حال صحبت است"
 }
