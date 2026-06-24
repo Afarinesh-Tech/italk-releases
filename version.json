@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 3090000,
   "latestVersionName": "3.9.0",
-  "minVersionCode": 1,
+  "minVersionCode": 3090000,
   "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.9.0/italk-3.9.0.apk",
-  "message": "نسخه ۳.۹.۰:\n• آواتار انتخابی شما اکنون برای همه نمایش داده می‌شود"
+  "message": "نسخه ۳.۹.۰ (به‌روزرسانی اجباری):\n• آواتار انتخابی شما اکنون برای همه نمایش داده می‌شود"
 }
