@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3080800,
-  "latestVersionName": "3.8.8",
-  "minVersionCode": 3080800,
-  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.8.8/italk-3.8.8.apk",
-  "message": "نسخه ۳.۸.۸ (به‌روزرسانی اجباری):\n• انتخاب آواتار در صفحه اتصال\n• ثبت صداهای دریافتی حتی وقتی برنامه باز نیست"
+  "latestVersionCode": 3080900,
+  "latestVersionName": "3.8.9",
+  "minVersionCode": 1,
+  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.8.9/italk-3.8.9.apk",
+  "message": "نسخه ۳.۸.۹:\n• نمایش آواتار کاربر کنار نامش در گفتگو"
 }
