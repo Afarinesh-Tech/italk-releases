@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3090200,
-  "latestVersionName": "3.9.2",
+  "latestVersionCode": 3090300,
+  "latestVersionName": "3.9.3",
   "minVersionCode": 1,
-  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.9.2/italk-3.9.2.apk",
-  "message": "نسخه ۳.۹.۲:\n• نمایش «در حال نوشتن…» هنگام تایپ دیگران"
+  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.9.3/italk-3.9.3.apk",
+  "message": "نسخه ۳.۹.۳:\n• استیکرها: دکمه و چند بسته استیکر"
 }
