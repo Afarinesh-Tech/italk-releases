@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3090300,
-  "latestVersionName": "3.9.3",
+  "latestVersionCode": 3090400,
+  "latestVersionName": "3.9.4",
   "minVersionCode": 1,
-  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.9.3/italk-3.9.3.apk",
-  "message": "نسخه ۳.۹.۳:\n• استیکرها: دکمه و چند بسته استیکر"
+  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.9.4/italk-3.9.4.apk",
+  "message": "نسخه ۳.۹.۴:\n• زمان پیام‌ها با اعداد فارسی و بدون ثانیه"
 }
