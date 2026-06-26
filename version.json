@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3090600,
-  "latestVersionName": "3.9.6",
+  "latestVersionCode": 3090700,
+  "latestVersionName": "3.9.7",
   "minVersionCode": 1,
-  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.9.6/italk-3.9.6.apk",
-  "message": "نسخه آزمایشی ۳.۹.۶ — بررسی روند به‌روزرسانی"
+  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.9.7/italk-3.9.7.apk",
+  "message": "نسخه ۳.۹.۷:\n• با پخش یک صدا، صداهای دیگر متوقف می‌شوند"
 }
