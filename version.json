@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3090800,
-  "latestVersionName": "3.9.8",
-  "minVersionCode": 3090800,
-  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.9.8/italk-3.9.8.apk",
-  "message": "نسخه ۳.۹.۸ (به‌روزرسانی اجباری):\n• بهبود پایداری صدا و کاهش افت بخش‌هایی از صدا در شبکه‌های ضعیف"
+  "latestVersionCode": 3090900,
+  "latestVersionName": "3.9.9",
+  "minVersionCode": 3090900,
+  "apkUrl": "https://gitlab.ppga.ir/api/v4/projects/28/packages/generic/italk/3.9.9/italk-3.9.9.apk",
+  "message": "نسخه ۳.۹.۹ (به‌روزرسانی اجباری):\n• گرفتن عکس با دوربین\n• کیفیت بسیار بهتر تصویر ارسالی\n• استیکرهای بیشتر"
 }
