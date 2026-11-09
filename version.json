@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3091200,
-  "latestVersionName": "3.9.12",
+  "latestVersionCode": 3091300,
+  "latestVersionName": "3.9.13",
   "minVersionCode": 3091200,
-  "apkUrl": "https://github.com/Afarinesh-Tech/italk-releases/releases/download/v3.9.12/italk-3.9.12.apk",
-  "message": "نسخه ۳.۹.۱۲ (به‌روزرسانی اجباری):\n• بررسی به‌روزرسانی روی همهٔ اینترنت‌ها کار می‌کند\n• بهبود سامانهٔ به‌روزرسانی خودکار\n• شامل همهٔ تغییرات نسخهٔ ۳.۹.۱۰: طراحی جدید، نشان تازهٔ آی‌تاک، آواتارها، دستور سریع و نمایش تمام‌صفحهٔ تصویر"
+  "apkUrl": "https://github.com/Afarinesh-Tech/italk-releases/releases/download/v3.9.13/italk-3.9.13.apk",
+  "message": "نسخه ۳.۹.۱۳:\n• تالی: کارگردان دوربین زنده را انتخاب می‌کند و همه می‌بینند؛ فیلم‌بردار زنده قاب قرمز می‌بیند\n• لرزش برای دستور به دوربین شما و رفتن روی آنتن\n• پروفایل اعضا با لمس روی آن‌ها\n• انتخاب نقش از فهرست، و تعیین نقش اعضا توسط کارگردان"
 }
